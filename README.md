@@ -1,4 +1,4 @@
-# Project_Kaggle_House_Prices_Advanced_Regression_Techniques
+# House Prices: Advanced Regression Techniques (Kaggle)
 
 This repo contains the jupyternotebook, codes, and results associated with my submission to the kaggle competition located at:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard#score
