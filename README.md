@@ -1,9 +1,9 @@
 # House Prices: Advanced Regression Techniques (Kaggle)
 
-This repo contains the jupyternotebook, codes, and results associated with my submission to the kaggle competition located at:
+This repo contains the jupyternotebook, codes, and results associated with my submission to the kaggle competition located at: <br>
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard#score
 
-The notebook leverages numerous functions related to model comparison and grid search across multiple different sci-kit learn & keras-based models. These helper functions are contained in a the python package at:
+The notebook leverages numerous functions related to model comparison and grid search across multiple different sci-kit learn & keras-based models. These helper functions are contained in a the python package at:<br>
 https://github.com/jlnerd/JLpy_utils_package
 
 Overall, the notebook demonstrates how to achieve an root mean square log error (RMSLE) of ~0.128 by searching through various feature engineering techinques (with and without one-hot encoding, with and without log-transformation on the label of interest), and by running grid search CV on numerous models. The models evaluated are:
